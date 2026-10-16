@@ -4,7 +4,7 @@ class Got < Formula
   license "MIT"
   version "0.2.0"
   url "https://github.com/jimbobbennett/got/releases/download/v0.2.0/got-darwin-aarch64.tar.gz"
-  sha256 "7206b8aaef747f2cd35a4309e672e98d97a83093b7133b106e97afb6f53ba0ce"
+  sha256 "de8ece6a2fac93c010d4bc8449734c995e1e693968f61533111d7b01e3b1bb51"
 
   depends_on "git"
 
