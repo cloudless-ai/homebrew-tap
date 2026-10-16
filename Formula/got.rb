@@ -2,9 +2,9 @@ class Got < Formula
   desc "Fast, folder-scoped Git checkouts"
   homepage "https://github.com/cloudless-ai/got"
   license "MIT"
-  version "0.2.1"
-  url "https://github.com/cloudless-ai/got/releases/download/v0.2.1/got-darwin-aarch64.tar.gz"
-  sha256 "b6809acffcecc33289fdb7c3a81ee01b83c890e42420f369286747d3df4b9d6f"
+  version "0.3.0"
+  url "https://github.com/cloudless-ai/got/releases/download/v0.3.0/got-darwin-aarch64.tar.gz"
+  sha256 "096a99276ce8afe9f25ece07d351e357d5ff6d917025a02b0e9515068db3114a"
 
   depends_on "git"
 
