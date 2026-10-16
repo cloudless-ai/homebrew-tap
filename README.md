@@ -2,4 +2,4 @@
 
 This repository hosts the `got` Homebrew formula.
 
-The formula is updated automatically by releases from [jimbobbennett/got](https://github.com/jimbobbennett/got).
+The formula is updated automatically by releases from [cloudless-ai/got](https://github.com/cloudless-ai/got).
