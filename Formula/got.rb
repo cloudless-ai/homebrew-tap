@@ -2,9 +2,9 @@ class Got < Formula
   desc "Fast, folder-scoped Git checkouts"
   homepage "https://github.com/jimbobbennett/got"
   license "MIT"
-  version "0.1.0"
-  url "https://github.com/jimbobbennett/got/releases/download/v0.1.0/got-darwin-aarch64.tar.gz"
-  sha256 "2e8e89ae03aff454a0602d1e4b9be98ce902460e976c1b2b60cc656bd4a4ee2b"
+  version "0.2.0"
+  url "https://github.com/jimbobbennett/got/releases/download/v0.2.0/got-darwin-aarch64.tar.gz"
+  sha256 "7206b8aaef747f2cd35a4309e672e98d97a83093b7133b106e97afb6f53ba0ce"
 
   depends_on "git"
 
