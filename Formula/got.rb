@@ -4,7 +4,7 @@ class Got < Formula
   license "MIT"
   version "0.3.0"
   url "https://github.com/cloudless-ai/got/releases/download/v0.3.0/got-darwin-aarch64.tar.gz"
-  sha256 "096a99276ce8afe9f25ece07d351e357d5ff6d917025a02b0e9515068db3114a"
+  sha256 "c2a5fad17a311df777828c2151b83c87f030f49ae65658356234d671ea958cfe"
 
   depends_on "git"
 
